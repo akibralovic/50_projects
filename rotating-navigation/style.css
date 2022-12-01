@@ -28,12 +28,12 @@ body{
   padding: 50px;
 }
 
-.container.show-nav{
+.container.show-nav{ 
   transform: rotate(-20deg);
 }
 
 .circle-container{
-  position: fixed;
+  position: absolute;
   top: -100px;
   left: -100px;
 }
