@@ -80,3 +80,28 @@ h3{
   flex: 1;
   transition: 0.3s ease;
 }
+
+.remained span{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.remained small{
+  font-size: 12px;
+}
+
+.percentage{
+  background-color: var(--full-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  height: 0;
+  transition: 0.3s ease;
+  font-size: 30px;
+}
+
+.text{
+  text-align: center;
+  margin: 0 0 5px;
+}
